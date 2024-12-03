@@ -10,3 +10,11 @@
 
 
 > Fisrt Screen: Creating a task , adding attendees and time
+
+
+<img width="409" alt="Scrumdinger3" src="https://github.com/user-attachments/assets/fe2fe44b-5e1d-4108-a62c-9c07abac1286">
+<img width="408" alt="Scrumdinger4" src="https://github.com/user-attachments/assets/971a89e0-2642-4fd2-9eb4-824f3451465c">
+<img width="421" alt="Scrumdinger5" src="https://github.com/user-attachments/assets/9cb14e43-c0e9-4010-84c3-5db39d6e652c">
+
+
+> More detailed
